@@ -53,3 +53,12 @@ A_i \cap A_j = \emptyset \\
 \sum_{i=1}^{n} A_i = \Omega
 \end{aligned}
 \right.$$
+
+## 运算律
+1. 交换律：$$A \cup B = B \cup A
+    \qquad A \cap B = B \cap A$$
+2. 结合律：$$((A \cup B) \cup C) = A \cup (B \cup C) \quad
+   ((A \cap B) \cap C) = A \cap (B \cap C)$$
+3. 分配律：$$((A \cup B) \cap C) = (A \cap C) \cup (B \cap C) \quad
+   ((A \cap B) \cup C) = (A \cup C) \cap (B \cup C)$$
+4. 对偶律：$$\overline{A \cup B} = \overline{A} \cap \overline{B} \qquad \overline{A \cap B} = \overline{A} \cup \overline{B}$$
