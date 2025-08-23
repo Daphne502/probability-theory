@@ -1,6 +1,4 @@
+theme: minima
 markdown: kramdown
 kramdown:
-  input: GFM
   math_engine: mathjax
-
-add config for mathjax
